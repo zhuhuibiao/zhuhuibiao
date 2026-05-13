@@ -2,9 +2,8 @@
 
 <!-- 打字机效果 -->
 <p>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E4%BC%81%E4%B8%9A%E7%BA%A7AI%E6%99%BA%E8%83%BD%E4%BD%93%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B6+;%E6%AC%A2%E8%BF%8E%E4%BD%BF%E7%94%A8%EF%BC%8C%E8%AE%B0%E5%BE%97%E7%82%B9%E4%B8%AAstar" alt="Typing SVG" /></a>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E6%AC%A2%E8%BF%8E%E4%BD%BF%E7%94%A8%EF%BC%8C%E8%AE%B0%E5%BE%97%E7%82%B9%E4%B8%AAstar" alt="Typing SVG" /></a>
-</p>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E4%BC%81%E4%B8%9A%E7%BA%A7AI%E6%99%BA%E8%83%BD%E4%BD%93%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B6+;%E6%AC%A2%E8%BF%8E%E4%BD%BF%E7%94%A8%EF%BC%8C%E8%AE%B0%E5%BE%97%E7%82%B9%E4%B8%AAstar" alt="Typing SVG" />
+  </a>
 
 ---
 
