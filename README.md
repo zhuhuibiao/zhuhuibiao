@@ -30,12 +30,6 @@
 | **PPQA自动化** | 代码规范检查、提交验证、质量门禁 |
 | **LLR知识库** | 持续沉淀项目经验教训 |
 
-```bash
-# 快速开始
-git clone https://github.com/zhuhuibiao/agentcmmi.git
-cd agentcmmi && cat SKILL.md
-```
-
 ---
 
 ## 🏆 核心能力
@@ -68,8 +62,3 @@ cd agentcmmi && cat SKILL.md
 </p>
 
 ---
-
-<!-- 吉祥物/徽章 -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/>
-</p>
