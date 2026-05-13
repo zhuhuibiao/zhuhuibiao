@@ -51,26 +51,18 @@ cd agentcmmi && cat SKILL.md
 
 ---
 
-## 📊 GitHub 数据
-
-<p align="left">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=zhuhuibiao&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhuhuibiao&hide_border=true&layout=compact&langs_count=8" />
-</p>
-
----
-
 ## 🔗 联系我
 
 <p align="left">
   <a href="https://github.com/zhuhuibiao" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <!-- 根据需要添加其他联系方式 -->
-  <!--
   <a href="mailto:your.email@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <!-- 根据需要添加其他联系方式 -->
+  <!--
+  
   <a href="https://twitter.com/your_twitter" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
